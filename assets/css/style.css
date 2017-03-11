@@ -392,7 +392,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .parallax {
     /* The image used */
-    background-image: url('../img/portfolio/children.jpg');
+    background-image: url('assets/img/portfolio/children.jpg');
 
     /* Full height */
     height: 100%; 
