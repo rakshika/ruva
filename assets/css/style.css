@@ -448,6 +448,16 @@ h1, h2, h3, h4, h5, h6 {
 .portfolio {
 	background-image: url(../img/portfolio/children.jpg);
 }
+@media (max-width: 900px){
+	.sep{
+		display:none;
+	}
+	.portfolio{
+		display:none;
+	}
+}
+
+
 
 /* Service Wrap */
 #servicewrap {
