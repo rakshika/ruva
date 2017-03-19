@@ -382,13 +382,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Separator About - Parallax Section */
-/*.sep {
+.sep {
 	background-attachment: fixed;
 	background-position: 50% 0;
 	background-repeat: no-repeat;
 	height: 100%;
 	position: relative;
-}*/
+}
 
 .parallax {
     /* The image used */
@@ -445,9 +445,9 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: solid 2px #2f2f2f
 }
 
-/*.portfolio {
+.portfolio {
 	background-image: url(../img/children-min.jpg);
-}*/
+}
 
 /* Service Wrap */
 #servicewrap {
