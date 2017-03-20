@@ -467,7 +467,13 @@ h1, h2, h3, h4, h5, h6 {
    		bottom: 5%; 
 	}
 }
-
+@media (max-width: 700px){
+	.littleAngelsHeading{
+		font-size:15px;
+		position: absolute; 
+   		bottom: 2%; 
+	}
+}
 
 
 /* Service Wrap */
