@@ -445,17 +445,30 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: solid 2px #2f2f2f
 }
 
+.littleAngels { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+.littleAngelsHeading { 
+   position: absolute; 
+   bottom: 200px; 
+    
+   width: 100%; 
+}
+
 .portfolio {
 	background-image: url(../img/portfolio/children.jpg);
 }
-@media (max-width: 900px){
+
+/*@media (max-width: 900px){
 	.sep{
 		display:none;
 	}
 	.portfolio{
 		display:none;
 	}
-}
+}*/
 
 
 
