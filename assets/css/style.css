@@ -462,14 +462,14 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 900px){
 	.littleAngelsHeading{
-		font-size:25px;
+		font-size:25px !important;
 		position: absolute; 
    		bottom: 5%; 
 	}
 }
 @media (max-width: 700px){
 	.littleAngelsHeading{
-		font-size:15px;
+		font-size:15px !important;
 		position: absolute; 
    		bottom: 2%; 
 	}
