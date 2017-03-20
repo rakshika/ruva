@@ -452,7 +452,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .littleAngelsHeading { 
    position: absolute; 
-   bottom: 0px; 
+   bottom: 2%; 
     width:100%;
 }
 
