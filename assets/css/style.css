@@ -31,11 +31,11 @@ b {
 }
 .heado{
 	font-family: 'Oswald', sans-serif;
-	font-size: 800%;
+	font-size: 100px;
 }
 @media (max-width: 600px) {
   .heado {
-    font-size: 400%;
+    font-size: 50%;
   }
 }
 .ankit {
@@ -136,7 +136,7 @@ body {
     font-weight: 400;
     font-size: 16px;
     color: #000;
-
+    overflow-x:hidden;
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
 }
