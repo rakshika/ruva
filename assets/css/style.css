@@ -29,7 +29,7 @@ p{
 b {
 	font-family: 'Montserrat', sans-serif;
 }
-/*.heado{
+.heado{
 	font-family: 'Oswald', sans-serif;
 	font-size: 100%;
 }
@@ -37,7 +37,7 @@ b {
   .heado {
     font-size: 25%;
   }
-}*/
+}
 .ankit {
 	background: #ff4c4c;
 	width: 100%;
@@ -445,7 +445,7 @@ h1, h2, h3, h4, h5, h6 {
 	border-bottom: solid 2px #2f2f2f
 }
 
-/*.littleAngels { 
+.littleAngels { 
    position: relative; 
    width: 100%; 
 }
@@ -455,10 +455,10 @@ h1, h2, h3, h4, h5, h6 {
    bottom: 10%; 
     width:100%;
 	font-size:50px;
-}*/
-.littleAngels{
-	background-image: url('assets/img/portfolio/children-min.jpg');
 }
+/*.littleAngels{
+	background-image: url('assets/img/portfolio/children-min.jpg');
+}*/
 .portfolio {
 	background-image: url(../img/portfolio/children.jpg);
 }
