@@ -461,7 +461,7 @@ h1, h2, h3, h4, h5, h6 {
 	background-image: url(../img/portfolio/children.jpg);
 }
 
-@media (max-width: 900px){
+/*@media (max-width: 900px){
 	.littleAngelsHeading{
 		font-size:40px !important;
 		position: absolute; 
@@ -474,7 +474,7 @@ h1, h2, h3, h4, h5, h6 {
 		position: absolute; 
    		bottom: 2%; 
 	}
-}
+}*/
 
 
 /* Service Wrap */
