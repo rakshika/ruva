@@ -31,11 +31,11 @@ b {
 }
 .heado{
 	font-family: 'Oswald', sans-serif;
-	font-size: ;
+	font-size:250% ;
 }
 @media (max-width: 600px) {
   .heado {
-    font-size: ;
+    font-size: 100%;
   }
 }
 .ankit {
@@ -452,9 +452,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .littleAngelsHeading { 
    position: absolute; 
-   bottom: 20%; 
+   bottom: 40%; 
     width:100%;
-	font-size:100px;
+	font-size:;
 }
 /*.littleAngels{
 	background-image: url('assets/img/portfolio/children-min.jpg');
@@ -465,14 +465,14 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 900px){
 	.littleAngelsHeading{
-		font-size:50px !important;
+		font-size: !important;
 		position: absolute; 
    		bottom: 5%; 
 	}
 }
 @media (max-width: 700px){
 	.littleAngelsHeading{
-		font-size:35px !important;
+		font-size: !important;
 		position: absolute; 
    		bottom: 2%; 
 	}
