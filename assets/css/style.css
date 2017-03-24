@@ -452,9 +452,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .littleAngelsHeading { 
    position: absolute; 
-   bottom: 20%; 
+   bottom: 10% !important; 
     width:100%;
-	font-size:;
+	
 }
 /*.littleAngels{
 	background-image: url('assets/img/portfolio/children-min.jpg');
